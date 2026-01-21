@@ -1,4 +1,4 @@
-# lightroom-jpeg
+# lr-exporter
 
 ## DB Tables
 

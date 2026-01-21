@@ -1,4 +1,4 @@
-module github.com/Quak1/lightroom-jpeg
+module github.com/Quak1/lr-exporter
 
 go 1.25.0
 
